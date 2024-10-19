@@ -2,7 +2,7 @@
     "Name": "StardewChatRelay",
     "Author": "Poleric",
     "Version": "1.0.0",
-    "Description": "A Discord <-> Stardew Valley bridge",
+    "Description": "A Stardew Valley <-> Discord bridge",
     "UniqueID": "Poleric.StardewChatRelay",
     "EntryDll": "StardewChatRelay.dll",
     "MinimumApiVersion": "4.0.0",
